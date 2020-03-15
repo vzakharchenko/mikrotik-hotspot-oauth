@@ -1,7 +1,7 @@
+[![CircleCI](https://circleci.com/gh/vzakharchenko/mikrotik-hotspot-oauth.svg?style=svg)](https://circleci.com/gh/vzakharchenko/mikrotik-hotspot-oauth)
+
 # Keycloak Radius Hotspot
 Setup social and other Oauth/Saml integration with [Keycloak Radius embedded server](file:///Users/vzakharchenko/home/keycloak-radius-plugin/)
-
-[![CircleCI](https://circleci.com/gh/vzakharchenko/mikrotik-hotspot-oauth.svg?style=svg)](https://circleci.com/gh/vzakharchenko/mikrotik-hotspot-oauth)
 # How Keycloak Radius Hotspot works
 1. Authorization through Keycloak occurs by [OpenID Connect](https://www.keycloak.org/docs/latest/securing_apps/#openid-connect-2).
 2. User selects on the login page the identity provider through which he wants to log in
