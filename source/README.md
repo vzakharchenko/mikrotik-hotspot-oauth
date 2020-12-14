@@ -76,6 +76,6 @@ macbook instalation [brew](https://brew.sh/) : *brew install node*
 1. cd [./source](source)
 2. npm i
 3. npm run build
-result in [./mikrotik](mikrotik)
+result in [./mikrotik](mikrotik)  
 
 # If you find these useful, please [Donate](https://secure.wayforpay.com/button/be27056b0a2b4)!
