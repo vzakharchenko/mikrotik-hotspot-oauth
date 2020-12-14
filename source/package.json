@@ -1,5 +1,5 @@
 {
-  "name": "hotspot_login_page",
+  "name": "hotspot-login-page",
   "version": "1.0.0",
   "description": "hotspot login page to work with keycloak",
   "main": "index.js",
