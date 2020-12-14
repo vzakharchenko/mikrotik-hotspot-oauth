@@ -1,4 +1,5 @@
 [![CircleCI](https://circleci.com/gh/vzakharchenko/mikrotik-hotspot-oauth.svg?style=svg)](https://circleci.com/gh/vzakharchenko/mikrotik-hotspot-oauth)
+[![donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://secure.wayforpay.com/button/be27056b0a2b4)
 
 # Keycloak Radius Hotspot
 Setup social and other Oauth/Saml integration with [Keycloak Radius embedded server](https://github.com/vzakharchenko/keycloak-radius-plugin/releases)
@@ -67,13 +68,14 @@ add comment=common dst-host=www.google-analytics.com
 ## build UI
 
 ### build UI Requirements:
-node and npm must be installed  
-macbook instalation [brew](https://brew.sh/) : *brew install node*  
+node and npm must be installed
+macbook instalation [brew](https://brew.sh/) : *brew install node*
 [Install node on ubuntu ](https://linuxize.com/post/how-to-install-node-js-on-ubuntu-18.04/)
 
 ### Building steps
 1. cd [./source](source)
 2. npm i
-3. npm run build  
+3. npm run build
 result in [./mikrotik](mikrotik)
 
+# If you find these useful, please [Donate](https://secure.wayforpay.com/button/be27056b0a2b4)!
