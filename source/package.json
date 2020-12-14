@@ -1,6 +1,6 @@
 {
   "name": "hotspot-login-page",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "hotspot login page to work with keycloak",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,18 @@
   },
   "author": "vzakharchenko",
   "license": "ISC",
+  "keywords": [
+    "hotspot-wifi",
+    "hotspot",
+    "mikrotik-hotspot",
+    "mikrotik",
+    "radius-server",
+    "keycloak",
+    "openid",
+    "saml2",
+    "facebook",
+    "google",
+    "Idp"],
   "devDependencies": {
     "@babel/core": "^7.7.7",
     "@babel/plugin-proposal-decorators": "^7.7.4",
